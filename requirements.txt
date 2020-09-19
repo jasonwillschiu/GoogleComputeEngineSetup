@@ -1,6 +1,6 @@
 # All the things we'll install
 # Install with pip install -r requirements.txt
-numpy>=1.18.5
-pandas>=1.0.5
-selenium>=3.141.0
-tensorflow>=2.3.0
+numpy
+pandas
+selenium
+tensorflow
