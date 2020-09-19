@@ -1,11 +1,11 @@
 #!/bin/bash
-reCloneFromGithub() {
+reClone() {
         rm -rf ~/GoogleComputeEngineSetup/
         git clone https://github.com/jasonwillschiu/GoogleComputeEngineSetup/
 }
 
-ls3() {
-        echo "Testing $*"
+copyFunc() {
+        cp ~/GoogleComputeEngineSetup/jfuncs.sh ~/jfuncs.sh
 }
 
 "$@"
