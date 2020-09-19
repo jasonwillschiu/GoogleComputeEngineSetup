@@ -4,6 +4,9 @@ Installing Git to keep track of what's installed
 sudo apt install git
 git clone https://github.com/jasonwillschiu/GoogleComputeEngineSetup
 
+Making a bash function to update from here
+
+
 Installing pip to make python thingers
 sudo apt-get install python3-pip
 alias pip3=pip
