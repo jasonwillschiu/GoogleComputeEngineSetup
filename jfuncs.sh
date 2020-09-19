@@ -7,3 +7,5 @@ reCloneFromGithub() {
 ls3() {
         echo "Testing $*"
 }
+
+"$@"
