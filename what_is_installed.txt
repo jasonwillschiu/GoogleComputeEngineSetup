@@ -2,6 +2,7 @@ On this GCE machine installed
 
 Installing Git to keep track of what's installed
 sudo apt install git
+wget https://github.com/jasonwillschiu/GoogleComputeEngineSetup/blob/master/jfuncs.sh
 git clone https://github.com/jasonwillschiu/GoogleComputeEngineSetup
 
 Making a bash function to update from here
